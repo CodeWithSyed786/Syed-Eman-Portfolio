@@ -1,0 +1,7 @@
+{
+  "name": "AI Architect Portfolio",
+  "description": "Interactive AI Portfolio with Voice Agent",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
