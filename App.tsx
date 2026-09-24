@@ -148,7 +148,7 @@ const App: React.FC = () => {
                                     transition={{ duration: 0.8, delay: 0.4 }}
                                     className="max-w-2xl mx-auto text-lg md:text-xl text-slate-600 dark:text-slate-300 font-light leading-relaxed mb-12"
                                 >
-                                    <span className="font-bold text-slate-800 dark:text-white">Full Stack AI Developer</span> • Age 17 • 12th Grade
+                                    <span className="font-bold text-slate-800 dark:text-white">Frontend Developer • React Developer</span> • 18 • Computer Information Technology Diploma
                                     <br />
                                     Building the bridge between digital logic and human emotion.
                                 </motion.p>
@@ -216,7 +216,7 @@ const App: React.FC = () => {
                                                 whileHover={{ scale: 1.1 }}
                                             >
                                                 <span className="text-sm font-bold text-indigo-600 dark:text-cyan-400 flex items-center gap-2">
-                                                    <Brain size={16} /> AI Architect
+                                                    <Brain size={16} /> AI-Assisted Builder
                                                 </span>
                                             </motion.div>
                                             <motion.div
@@ -224,7 +224,7 @@ const App: React.FC = () => {
                                                 whileHover={{ scale: 1.1 }}
                                             >
                                                 <span className="text-sm font-bold text-indigo-600 dark:text-cyan-400 flex items-center gap-2">
-                                                    <Code size={16} /> Full Stack
+                                                    <Code size={16} /> Frontend
                                                 </span>
                                             </motion.div>
                                         </motion.div>
@@ -235,10 +235,10 @@ const App: React.FC = () => {
                                             <span className="w-12 h-1 bg-indigo-600 dark:bg-cyan-500"></span> About The Architect
                                         </h2>
                                         <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed mb-6">
-                                            I'm <strong className="text-indigo-600 dark:text-cyan-400 text-xl">Syed Eman Ali Shah</strong>, a 17-year-old visionary currently in my 12th Grade and pursuing a specialized Computer Diploma. My journey is defined by a relentless pursuit of mastering the digital landscape.
+                                            I'm <strong className="text-indigo-600 dark:text-cyan-400 text-xl">Syed Eman Ali Shah</strong>, a frontend developer building modern web experiences while pursuing a Computer Information Technology Diploma and pursuing a specialized Computer Diploma. My journey is defined by a relentless pursuit of mastering the digital landscape.
                                         </p>
                                         <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed mb-6">
-                                            Starting from HTML, I've accelerated through the ranks of modern web technologies including CSS, JavaScript, and advanced React frameworks. My current mission is clear: evolving into a world-class <strong className="text-indigo-600 dark:text-cyan-400">Full-Stack AI Developer</strong>.
+                                            Starting from HTML, I've accelerated through the ranks of modern web technologies including CSS, JavaScript, and advanced React frameworks. My current mission is clear: evolving into a world-class <strong className="text-indigo-600 dark:text-cyan-400">Frontend Developer</strong>.
                                         </p>
                                         <p className="text-lg text-slate-600 dark:text-slate-300 leading-relaxed">
                                             Beyond code, I am a <strong className="text-indigo-600 dark:text-cyan-400">Communication Master</strong>. I believe that the most powerful programming language is the one that influences human minds. My goal is to merge these two worlds: High-level Artificial Intelligence and High-impact Human connection.
@@ -316,13 +316,13 @@ const App: React.FC = () => {
                                                     <p className="text-slate-900 dark:text-white font-medium">sg541914@gmail.com</p>
                                                 </div>
                                             </div>
-                                            <a href="https://github.com/syedeman" target="_blank" rel="noreferrer" className="flex items-center gap-4 group">
+                                            <a href="https://github.com/CodeWithSyed786" target="_blank" rel="noreferrer" className="flex items-center gap-4 group">
                                                 <div className="w-12 h-12 bg-indigo-100 dark:bg-slate-800 rounded-full flex items-center justify-center text-indigo-600 dark:text-cyan-400 group-hover:scale-110 transition-transform">
                                                     <Github size={20} />
                                                 </div>
                                                 <div>
                                                     <p className="text-sm text-slate-500 dark:text-slate-400 font-bold uppercase">Code Repository</p>
-                                                    <p className="text-slate-900 dark:text-white font-medium">syedbadshah2662008-cpu
+                                                    <p className="text-slate-900 dark:text-white font-medium">CodeWithSyed786
                                                     </p>
                                                 </div>
                                             </a>
