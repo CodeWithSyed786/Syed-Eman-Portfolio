@@ -1,20 +1,66 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://r2.image-upload.app/tyImg/5o38DWQY.png" />
-</div>
+# Syed Eman — AI Architect Portfolio
 
-# Run and deploy your website
+A modern personal portfolio showcasing **Syed Eman's frontend development journey, projects, skills, and AI experiments**.
 
-This contains everything you need to run your app locally.
+🌐 **Live website:** https://code-with-syed-573ac.web.app/
 
-View your website : https://code-with-syed-573ac.web.app/
+## ✨ Highlights
 
-## Run Locally
+- Modern responsive portfolio interface
+- React + TypeScript + Vite
+- Interactive 3D visuals with Three.js
+- Motion and UI animation with Framer Motion
+- AI integration with Google Gemini
+- Project and skills showcase
+- Responsive design for desktop and mobile
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+- React
+- TypeScript
+- Vite
+- Three.js
+- React Three Fiber
+- Framer Motion
+- Lucide React
+- Google Gemini API
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🚀 Run Locally
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+```bash
+npm install
+```
+
+### Environment
+
+Create `.env.local` and add the required Gemini API key used by the project.
+
+```env
+GEMINI_API_KEY=your_api_key_here
+```
+
+### Start development server
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+## 👨‍💻 Developer
+
+**Syed Eman Ali Shah**  
+Frontend Developer • React Developer • AI-Assisted Builder
+
+GitHub: https://github.com/CodeWithSyed786
