@@ -1,6 +1,6 @@
-# Syed Eman — AI Architect Portfolio
+# Syed Eman — Frontend Developer Portfolio
 
-A modern personal portfolio showcasing **Syed Eman's frontend development journey, projects, skills, and AI experiments**.
+A modern personal portfolio showcasing **Syed Eman's frontend development journey, projects, skills, AI experiments, and selected client work**.
 
 🌐 **Live website:** https://code-with-syed-573ac.web.app/
 
@@ -13,6 +13,7 @@ A modern personal portfolio showcasing **Syed Eman's frontend development journe
 - AI integration with Google Gemini
 - Project and skills showcase
 - Responsive design for desktop and mobile
+- Focused Frontend Developer positioning
 
 ## 🛠️ Tech Stack
 
@@ -57,6 +58,13 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## ⭐ Related Project
+
+**AstraFlow AI** — AI-powered developer workspace for debugging, planning, explanations, and frontend productivity.
+
+Live: https://astra-flow-ai.vercel.app/  
+Repository: https://github.com/CodeWithSyed786/AstraFlow-AI
 
 ## 👨‍💻 Developer
 
